@@ -1,0 +1,6 @@
+[submodule "swengs-hw_backend"]
+	path = swengs-hw_backend
+	url = https://github.com/sweiland/swengs-hw_backend.git
+[submodule "swengs-hw_frontend"]
+	path = swengs-hw_frontend
+	url = https://github.com/sweiland/swengs-hw_frontend.git
