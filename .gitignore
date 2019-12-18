@@ -11,6 +11,7 @@
 *.BACKUP.*
 *.BASE.*
 *.LOCAL.*
+*.REMOTE.*
 *_BACKUP_*.txt
 *_BASE_*.txt
 *_LOCAL_*.txt
