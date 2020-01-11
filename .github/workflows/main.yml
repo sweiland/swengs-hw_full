@@ -1,4 +1,4 @@
-name: CI
+name: Dependabot Auto Merge
 
 on: [push]
 
